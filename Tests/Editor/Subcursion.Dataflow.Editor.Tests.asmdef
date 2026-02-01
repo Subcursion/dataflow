@@ -1,0 +1,14 @@
+{
+    "name": "Subcursionests",
+    "references": [
+        "Subcursion.Editor",
+        "Subcursion"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}

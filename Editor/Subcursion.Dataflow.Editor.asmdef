@@ -1,0 +1,10 @@
+{
+    "name": "Subcursion.Dataflow.Editor",
+    "references": [
+        "Subcursion.Dataflow"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}

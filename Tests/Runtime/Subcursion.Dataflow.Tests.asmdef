@@ -1,0 +1,11 @@
+{
+    "name": "Subcursion.Dataflow.Tests",
+    "references": [
+        "Subcursion.Dataflow"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": []
+}
